@@ -43,7 +43,7 @@ Este sistema é um software livre baseado em outros softwares livres; você pode
 
 Este sistema é distribuído na esperança de que possa ser  útil, mas SEM NENHUMA GARANTIA; sem uma garantia implícita de ADEQUAÇÃO a qualquer MERCADO ou APLICAÇÃO EM PARTICULAR. Veja a Licença Pública Geral GNU para maiores detalhes.
 
-Em caso de dúvidas, erros ou sugestões, por favor, envie e-mail para tarsodecastro@gmail.com
+Em caso de dúvidas, erros ou sugestões, por favor, envie e-mail para lucassectitefe@gmail.com
 
 
 Requisitos:
